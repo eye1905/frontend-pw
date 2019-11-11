@@ -1,0 +1,41 @@
+.navbar-set{
+	color: red;
+	height: 20px;
+}
+
+.navbar-set a{
+	font-size: 10pt;
+	text-decoration: none;
+	color: grey;
+}
+
+.navbar-expand-sm a{
+	color: #6c757d;
+}
+
+.btn-outline-primary{
+	border-color: #25C6DA;
+	color: #25C6DA;
+}
+.btn-outline-primary:hover{
+	background-color: #25C6DA;
+	border-color: #25C6DA;
+}
+
+.nav-item1{
+	margin-left: 20px;
+}
+.nav-item a:hover{
+	color: #25C6DA;
+}
+
+.navbar-collapse{
+	margin-top: -18px;
+	background-color: white;
+}
+
+.full-screen {
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
